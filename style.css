@@ -1,0 +1,49 @@
+html { box-sizing: border-box;}
+*, ::before, ::after { box-sizing: inherit;}
+
+body {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    padding: 0;
+}
+
+.mainBox {
+    background-color: hsl(0, 0%, 100%);
+    margin: 90px auto;
+    width: 315px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.mainBox img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.mainBox h1 {
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.mainBox p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width: 1100px) {
+    .mainBox {
+        margin: 45px auto;
+    }
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
