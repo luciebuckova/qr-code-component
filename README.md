@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -16,11 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./images/screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/luciebuckova/qr-code-component)
-- Live Site URL: [Add live site URL here](https://luciebuckova.github.io/qr-code-component/)
 
 ## My process
 
@@ -32,6 +26,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Lucie Buckova](https://github.com/luciebuckova)
+- GitHub - [Lucie Buckova](https://github.com/luciebuckova)
 - Frontend Mentor - [@luciebuckova](https://www.frontendmentor.io/profile/luciebuckova)
 
